@@ -1,6 +1,10 @@
 .App {
-    text-align: center;
+  text-align: center;
 }
 iframe {
-    display: none;
+  display: none;
+}
+
+body {
+  background-color: #e8ebed;
 }
